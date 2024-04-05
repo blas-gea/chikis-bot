@@ -1,0 +1,6 @@
+deep_translator==1.11.4
+discord.py==2.3.2
+langdetect==1.0.9
+mcstatus==11.1.1
+pykakasi==2.2.1
+python-dotenv==1.0.1
